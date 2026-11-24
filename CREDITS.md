@@ -40,4 +40,4 @@ Photographie personnelle fournie par Elías Montesinos Ruiz. Auteur de la prise 
 Ces deux images sont des illustrations externes, jamais présentées comme des observations d’Elias. Aucune attribution obligatoire sous CC0 ; auteurs mentionnés volontairement. Motifs CSS et symboles typographiques : décoration, aucune donnée ou carte scientifique représentée. Polices système uniquement, aucune police à télécharger.
 
 ## Logos des outils
-Les pictogrammes de marques proviennent de [Simple Icons](https://simpleicons.org/) (licence CC0), servis par son CDN. Les logos restent la propriété de leurs titulaires ; leur présence indique les outils cités, sans affiliation ni validation du portfolio. Cartes Gouv, InfoTerre, SedLog et Clipchamp utilisent un signe typographique local.
+Les pictogrammes de marques proviennent de [Simple Icons](https://simpleicons.org/) (licence CC0), obtenus via Iconify et conservés localement. Les logos restent la propriété de leurs titulaires ; leur présence indique les outils cités, sans affiliation ni validation du portfolio. Cartes Gouv, InfoTerre, SedLog, CapCut et Clipchamp utilisent un signe typographique local.
