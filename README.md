@@ -1,4 +1,4 @@
-# Portfolio — Élias Montesinos Ruiz
+# Portfolio — Elías Montesinos Ruiz
 
 Site HTML, CSS et JavaScript statique. Ouvrir index.html pour une consultation locale.
 
